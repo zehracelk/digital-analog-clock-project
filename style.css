@@ -93,3 +93,10 @@
     #d_hour{
         color: black;
     }
+
+    button{
+        margin: 2rem;
+        border: 2px solid red;
+        border-radius: 5px;
+        padding: 1rem;
+    }
